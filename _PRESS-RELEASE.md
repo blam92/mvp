@@ -17,35 +17,35 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
-  Sollo
+  > Sollo
+  
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-  The Prioritizing tool for the solo developer.
+  > The Prioritizing tool for the independent worker.
+  
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-  Ability to create and organize tasks in small lists to help you organize your tickets. Create new boards to separate concerns and help     you focus on what you need to work on right now.
+  > Ability to create and organize tasks in small lists to help you organize your tickets. Create new boards to separate concerns and help     you focus on what you need to work on right now.
+  
 ## Problem ##
-  > Describe the problem your product solves.
- Backlog and organization tools have too many features and restrictions that you may not need when working by yourself. 
+  > Other organization tools have too many features and restrictions that you may not need when working by yourself. 
+ 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
- Sollo is a simple easy to use board creator that lets you create and modify boards and lists on the fly.
+  >  Sollo is a simple easy to use board creator that lets you create and modify boards and lists on the fly.
+  
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
-  "The versatility of Sollo is that you can use it for pretty much every task. Just create a board and organize your to-do's"
+  > "The versatility of Sollo is that you can use it for pretty much every task. Just create a board and organize your to-do's"
+  
 ## How to Get Started ##
-  > Describe how easy it is to get started.
-  - Click on create new board
-  - Add a title and description
-  - Separate your to-do's on different lists within that board.
-  - Click on to-dos that have been finished.
-  - Add new lists and to-do items easily!
+  > Click on create new board
+  > Add a title and description
+  > Separate your to-do's on different lists within that board.
+  > Click on to-dos that have been finished.
+  > Add new lists and to-do items easily!
+  
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-  "Able to use a prioritization tool when working by myself without the set up complications of bigger systems has doubled my
+  > "Able to use a prioritization tool when working by myself without the set up complications of bigger systems has doubled my
   productivity and its FREE!"
+
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
-  Start using Sollo for free NOW! www.website.com
+  > Start using Sollo for free NOW! www.website.com
+  
