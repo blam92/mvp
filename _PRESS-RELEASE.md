@@ -36,11 +36,11 @@ Once the project moves into development, the press release can be used as a touc
   > "The versatility of Sollo is that you can use it for pretty much every task. Just create a board and organize your to-do's"
   
 ## How to Get Started ##
-  > Click on create new board
-  > Add a title and description
-  > Separate your to-do's on different lists within that board.
-  > Click on to-dos that have been finished.
-  > Add new lists and to-do items easily!
+  - Click on create new board
+  - Add a title and description
+  - Separate your to-do's on different lists within that board.
+  - Click on to-dos that have been finished.
+  - Add new lists and to-do items easily!
   
 ## Customer Quote ##
   > "Able to use a prioritization tool when working by myself without the set up complications of bigger systems has doubled my
